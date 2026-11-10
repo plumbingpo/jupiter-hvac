@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jupiterhvacco.com/sitemap.xml
